@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScecne.unity
+    path: Assets/Scenes/3DmaskScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TEXMaskScene.unity
+    guid: 3173f1d77d22f5341b73f3992b32e382
+  - enabled: 1
+    path: Assets/Scenes/TEXVideoScene.unity
+    guid: dd733daff8585dc4ba1370ae2245d65e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a7e146c596015c64ca84d0ae78a1d7a7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ed3ecf2aee8f0e5418bc6480e1a5982d, type: 2}
